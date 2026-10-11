@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "modules/vpc": {
+      "release-type": "terraform-module"
+    },
+    "modules/eks": {
+      "release-type": "terraform-module"
+    }
+  }
+}
