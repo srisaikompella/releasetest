@@ -1,4 +1,4 @@
 {
   "modules/vpc": "1.0.0",
-  "modules/eks": "1.1.0"
+  "modules/eks": "1.2.0"
 }
