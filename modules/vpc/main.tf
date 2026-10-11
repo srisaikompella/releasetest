@@ -1,1 +1,1 @@
-security feature in vpc
+feat(vpc): enhanced vpc feat
