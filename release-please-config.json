@@ -1,5 +1,5 @@
 {
-  "separate-pull-requests": true,
+  "group-pull-request-title-pattern": "chore: release ${branch}", 
   "pull-request-title-pattern": "chore(${component}): release version ${version}",
   "include-component-in-tag": true,
   "packages": {

@@ -1,0 +1,15 @@
+{
+  "separate-pull-requests": true,
+  "pull-request-title-pattern": "chore(${component}): release version ${version}",
+  "include-component-in-tag": true,
+  "packages": {
+    "modules/vpc": {
+      "release-type": "terraform-module",
+      "component": "modules/vpc"
+    },
+    "modules/eks": {
+      "release-type": "terraform-module",
+      "component": "modules/eks"
+    }
+  }
+}

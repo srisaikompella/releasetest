@@ -1,1 +1,1 @@
-sec feature in vpc
+security feature in vpc

@@ -1,1 +1,1 @@
-sec feature in eks
+security feature in eks
