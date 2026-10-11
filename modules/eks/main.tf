@@ -1,1 +1,1 @@
-security feature in eks
+feat(eks): enhanced sec feat
