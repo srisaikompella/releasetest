@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/srisaikompella/releasetest/compare/modules/eks-v1.2.0...modules/eks-v1.3.0) (2026-10-11)
+
+
+### Features
+
+* **eks:** Add eks changes ([05ae684](https://github.com/srisaikompella/releasetest/commit/05ae684169a5a85829030fca4718a49a0d84e984))
+
 ## [1.2.0](https://github.com/srisaikompella/releasetest/compare/modules/eks-v1.1.0...modules/eks-v1.2.0) (2026-10-11)
 
 
