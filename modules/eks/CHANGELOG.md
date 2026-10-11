@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/srisaikompella/releasetest/compare/modules/eks-v1.3.0...modules/eks-v1.4.0) (2026-10-11)
+
+
+### Features
+
+* Add eks and vpc changes ([c4121c2](https://github.com/srisaikompella/releasetest/commit/c4121c2c6f77e3590a3eeebc064fddcef3b03d45))
+* **eks:** enhanced sec feat ([52051e9](https://github.com/srisaikompella/releasetest/commit/52051e964e06d5342c3a49f3475467dbba61af86))
+
 ## [1.3.0](https://github.com/srisaikompella/releasetest/compare/modules/eks-v1.2.0...modules/eks-v1.3.0) (2026-10-11)
 
 

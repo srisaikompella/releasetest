@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/srisaikompella/releasetest/compare/modules/vpc-v1.3.0...modules/vpc-v1.4.0) (2026-10-11)
+
+
+### Features
+
+* Add eks and vpc changes ([c4121c2](https://github.com/srisaikompella/releasetest/commit/c4121c2c6f77e3590a3eeebc064fddcef3b03d45))
+* **vpc:** enhanced vpc feat ([d9592f3](https://github.com/srisaikompella/releasetest/commit/d9592f33db83680d713bf732b26ab9ccaa9c1f25))
+
 ## [1.3.0](https://github.com/srisaikompella/releasetest/compare/modules/vpc-v1.2.0...modules/vpc-v1.3.0) (2026-10-11)
 
 
