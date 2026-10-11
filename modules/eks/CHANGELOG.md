@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/srisaikompella/releasetest/compare/modules/eks-v1.1.0...modules/eks-v1.2.0) (2026-10-11)
+
+
+### Features
+
+* **eks:** enable secrets encryption with a new feature ([4e5d5da](https://github.com/srisaikompella/releasetest/commit/4e5d5daaf945b1a1ccd5e5c6724f29b24e23260d))
+* Subnet feature has been aded ([523d6d0](https://github.com/srisaikompella/releasetest/commit/523d6d0da7079eeeb8425ccae8e99a9f6d0f46cf))
+
 ## [1.1.0](https://github.com/srisaikompella/releasetest/compare/modules/eks-v1.0.0...modules/eks-v1.1.0) (2026-10-11)
 
 
