@@ -1,17 +1,14 @@
-name: Release Please
-on:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-  pull-requests: write
-
-jobs:
-  release-please:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: google-github-actions/release-please-action@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+{
+  "pull-request-title-pattern": "chore(${component}): release version ${version}",
+  "include-component-in-tag": true,
+  "packages": {
+    "modules/vpc": {
+      "release-type": "terraform-module",
+      "component": "modules/vpc"
+    },
+    "modules/eks": {
+      "release-type": "terraform-module",
+      "component": "modules/eks"
+    }
+  }
+}
