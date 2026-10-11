@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/srisaikompella/releasetest/compare/modules/vpc-v1.2.0...modules/vpc-v1.3.0) (2026-10-11)
+
+
+### Features
+
+* **vpc:** Add vpc changes ([ccc4adf](https://github.com/srisaikompella/releasetest/commit/ccc4adfdffbfd1e096b9c2101e31d56762386abc))
+
 ## [1.2.0](https://github.com/srisaikompella/releasetest/compare/modules/vpc-v1.1.0...modules/vpc-v1.2.0) (2026-10-11)
 
 
